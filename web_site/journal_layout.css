@@ -40,6 +40,7 @@ ul {
 }
 .main{
 	border: 5px red solid;
+	text-align: right;
 }
 .main h2{
 	border: 5px orange solid;
@@ -55,7 +56,12 @@ ul {
 	margin-top: 10px;
 	padding:5px;
 }
-.body{
+.back{
 	background-image: http://www.cs.washington.edu/education/courses/190m/09sp/labs/2‐journal/images/background.gif;
-	
+}
+.thumbnail{
+	float:right;
+}
+.body{
+	overflow:hidden;
 }
