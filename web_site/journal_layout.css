@@ -49,7 +49,7 @@ ul {
 	border: 4px #C2E9E9 solid;
 	padding:5px;
 	margin-top: 10px;
-	background-color:  #E8FBFB;
+	background-color: #E8FBFB;
 }
 .date{
 	border-bottom: : 2px blue dashed;
@@ -77,3 +77,21 @@ body {
 .body{
 	overflow:hidden;
 }
+.date:hover{
+	background-color: yellow;
+}
+.article:hover{
+	background-color: yellow;
+}
+.main:hover{
+	background-color: yellow;
+}
+.sidebar:hover{
+	background-color: yellow;
+}
+
+
+
+
+
+
